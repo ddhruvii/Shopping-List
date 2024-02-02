@@ -1,0 +1,47 @@
+.done {
+	text-decoration: line-through;
+}
+
+button {
+	border-spacing: 20px;
+	padding: 5px;
+	font-size: 40px;
+	margin: 10px;
+}
+
+.flex-container {
+	display: inline-flex;
+	flex-direction: row;
+	height: 80px;
+	width: 400px;
+}
+
+#userinput {
+	font-size: 40px;
+}
+
+#enter {
+	font-size: 40px;
+}
+
+body {
+  font-family: "Indie Flower", cursive;
+  letter-spacing: 0.1rem;
+  background-image: linear-gradient(90deg, #e8b6b6, 2px, rgba(255,255,255,0), 2px, rgba(255,255,255,0)), linear-gradient(0, #d9eaf3, 1px, rgba(255,255,255,0), 2px, rgba(230, 230, 250,0.50));
+  background-position: 4rem 0;
+  background-size: 100% 2.4rem;
+  color: #111;
+  padding: 6rem;  
+  white-space: nowrap;
+  justify-content: center;
+  font-size: 4em;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  
+ }
+
+li {
+	padding-bottom: 20px;
+}
